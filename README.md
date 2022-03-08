@@ -4,7 +4,6 @@
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://www.logodesignlove.com/wp-content/uploads/2010/03/next-logo-paul-rand-1.jpg" width="200"></td>
-    https://i.ytimg.com/vi/N3AEAC7wZdo/maxresdefault.jpg
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
