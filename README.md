@@ -132,7 +132,7 @@
     </tr>  
 </table>
 
-Hello,
+Hello,<br />
 Thank you for checking out my Github profile, here is a quick overview of my skills and strengths.<br />
 I am  Poulin Patrick. A self-motivated professional that thrives on innovation and overcoming challenges, learning new skills, and encouraging growth in those around me. 
 I specialize in start-ups and have worked within the small business run smoother.
