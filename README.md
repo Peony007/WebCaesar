@@ -2,6 +2,8 @@
 ### **_Skills_**
 <table>
   <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
@@ -12,8 +14,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+      
   </tr>  
 </table>
 
@@ -132,9 +133,16 @@
     </tr>  
 </table>
 
-#### I am a blockchain developer in senior level and work in DeFi projects.
-- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
-- Fork of PancakeSwap, GooseDeFi, PantherSwap.
-- Decentralized Exchanges with TradingView.
-- Token Bridge, Block Explorer.
-- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
+Hello,
+Thank you for checking out my Github profile, here is a quick overview of my skills and strengths. 
+I am  Poulin Patrick. A self-motivated professional that thrives on innovation and overcoming challenges, learning new skills, and encouraging growth in those around me. I specialize in start-ups and have worked within the small business run smoother.
+I am well organized, efficient, and self motivated. The key to my success has been to learn quickly and to then reach for a higher personal and professional standard by seeking additional responsibilities.
+I have worked in the retail industry for over 7 years as a full stack developer for companies such as a full-stack developer.
+My genuine interest in building world class support teams and maintaining a high level of standards has led me to become successful in my role as a full-stack developer.
+My goal has always been to exceed the expectations of both my emplyer as well as my customer.
+Although the above is only a brief snapshot, this philosophy has served me welll in my professional career.
+I am focused on Web Design, React, Vue.js, Angular, Solidity, Smart-contract, Blockchain-development, Mobile-app creation. I am a Shopify certified partner and I am featured in the 21 web design lists in prestigiious rankings.
+The design philosophy is centered around simplicity. I focus on highly customizable, fast and optimized websites, clean lines, white space, and solid colors to create an aesthetic that is both modern and timeless.
+The websites are professionally designed to increase conversion rates and sales.
+I encourage you to take alook at my github profile to see the type of results that you can expect when working with me.
+Thank you.
