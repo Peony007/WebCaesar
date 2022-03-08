@@ -5,8 +5,8 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://www.logodesignlove.com/wp-content/uploads/2010/03/next-logo-paul-rand-1.jpg" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://spng.subpng.com/20180526/okf/kisspng-ethereum-t-shirt-cryptocurrency-bitcoin-blockchain-5b090829a2c4d9.1765357715273185696667.jpg" width="200"></td>
       <td><img src="https://i.ytimg.com/vi/N3AEAC7wZdo/maxresdefault.jpg" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
