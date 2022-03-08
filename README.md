@@ -9,7 +9,6 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
       <td><img src="https://i.ytimg.com/vi/N3AEAC7wZdo/maxresdefault.jpg" width="200"></td>
       <td><img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="200"></td>
-      <td><img src="https://png.pngitem.com/pimgs/s/206-2069813_file-css-and-html-css-logo-svg-hd.png" width="200"></td>
       <td><img src="https://spng.subpng.com/20180526/okf/kisspng-ethereum-t-shirt-cryptocurrency-bitcoin-blockchain-5b090829a2c4d9.1765357715273185696667.jpg" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
