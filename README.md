@@ -54,12 +54,12 @@
     <tr>
         <td>
             <a href="https://www.hiflaneur.com/" target="_blank">
-                <img src="https://cdn.shopify.com/s/files/1/0999/0662/products/2018_10_19_FLANEUR_1378_540x.jpg?v=1637635013" width="300">
+                <img src="https://cdn.shopify.com/s/files/1/0999/0662/products/2018_10_19_FLANEUR_1378_540x.jpg?v=1637635013" width="300" height="300">
             </a>
         </td>
         <td>
             <a href="https://mociun.com/" target="_blank">
-                <img src="https://cdn.shopify.com/s/files/1/0075/5004/2175/files/Mociun_HomePage_Full_300x.jpg?v=1643389545" width="300" height="600">
+                <img src="https://cdn.shopify.com/s/files/1/0075/5004/2175/files/Mociun_HomePage_Full_300x.jpg?v=1643389545" width="300" >
             </a>
         </td>
         <td>
