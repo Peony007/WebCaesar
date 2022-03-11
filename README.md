@@ -23,8 +23,8 @@
     <thead align="center">
         <tr>
             <td>Casalova</td>           
-            <td>fishtripr</td>           
-            <td>fsastore</td>
+            <td>Fishtripr</td>           
+            <td>Fsastore</td>
         </tr>
     </thead>
     <tr>
@@ -46,9 +46,9 @@
     </tr>
     <thead align="center">
         <tr style="display: flex">
-            <td>hiflaneur/</td>
-            <td>mociun</td>
-            <td>seniorly</td>
+            <td>Hiflaneur</td>
+            <td>Mociun</td>
+            <td>Seniorly</td>
         </tr>
     </thead>
     <tr>
@@ -59,7 +59,7 @@
         </td>
         <td>
             <a href="https://mociun.com/" target="_blank">
-                <img src="https://cdn.shopify.com/s/files/1/0075/5004/2175/files/Mociun_HomePage_Full_300x.jpg?v=1643389545" width="300">
+                <img src="https://cdn.shopify.com/s/files/1/0075/5004/2175/files/Mociun_HomePage_Full_300x.jpg?v=1643389545" width="300" height="600">
             </a>
         </td>
         <td>
