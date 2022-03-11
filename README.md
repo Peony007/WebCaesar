@@ -87,7 +87,7 @@
         </td>          
         <td>
             <a href="https://play.google.com/store/apps/details?id=com.eikard.version">
-                <img src="https://play-lh.googleusercontent.com/0yofnveljsXLosh_ZOX8dX1Iy0y1Rk2ehbcOhv0CEEF-MdVNVds1yCy9lQzXQXbxP10=w1440-h620-rw" width="300" height="600">
+                <img src="https://play-lh.googleusercontent.com/0yofnveljsXLosh_ZOX8dX1Iy0y1Rk2ehbcOhv0CEEF-MdVNVds1yCy9lQzXQXbxP10=w1440-h620-rw" width="300" height="500">
             </a>
         </td>   
         <td>
