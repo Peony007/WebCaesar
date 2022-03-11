@@ -46,25 +46,25 @@
     </tr>
     <thead align="center">
         <tr style="display: flex">
-            <td>GekoSave</td>
-            <td>HellDemon</td>
-            <td>fsastore</td>
+            <td>hiflaneur/</td>
+            <td>mociun</td>
+            <td>seniorly</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="300">
+            <a href="https://www.hiflaneur.com/" target="_blank">
+                <img src="https://cdn.shopify.com/s/files/1/0999/0662/products/2018_10_19_FLANEUR_1378_540x.jpg?v=1637635013" width="300">
             </a>
         </td>
         <td>
-            <a href="https://helldemon.cryptoliveton.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/HellDemon.png?raw=true" width="300">
+            <a href="https://mociun.com/" target="_blank">
+                <img src="https://cdn.shopify.com/s/files/1/0075/5004/2175/files/Mociun_HomePage_Full_300x.jpg?v=1643389545" width="300">
             </a>
         </td>
         <td>
-            <a href="https://fsastore.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/KaiSniper.png?raw=true" width="300">
+            <a href="https://www.seniorly.com/" target="_blank">
+                <img src="https://d354o3y6yz93dt.cloudfront.net/images/1080x1080/react-assets/home/bottom-banner.jpg" width="300">
             </a>
         </td>                       
     </tr>   
