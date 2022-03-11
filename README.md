@@ -23,24 +23,24 @@
     <thead align="center">
         <tr>
             <td>Casalova</td>           
-            <td>CryptoPigs</td>           
-            <td>FunkiFoxes</td>
+            <td>fishtripr</td>           
+            <td>fsastore</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://mint.potatopower.club/">
+            <a href="https://www.f6s.com/casalova">
                 <img src="https://flex.f6s.com/content-resource/media/463849.jpg" width="300">
             </a>
         </td>
         <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="300">
+            <a href="https://www.fishtripr.com/">
+                <img src="https://v.fastcdn.co/u/19d50400/20614816-0-AdobeStock-2588979.jpeg" width="300">
             </a>
         </td> 
         <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="300">
+            <a href="https://fsastore.com/">
+                <img src="https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BFKW_STG/on/demandware.static/-/Library-Sites-fsaStoreLibrary/default/v6ca977b808a5a1ce8d5929d87e1c799a17d0f261/images/Campaigns/2022-03-mar-grace-period-phase3/homepage-hero-phase3hero-graceperiod-hp-fsa-2xs.jpg" width="300">
             </a>
         </td>               
     </tr>
@@ -48,7 +48,7 @@
         <tr style="display: flex">
             <td>GekoSave</td>
             <td>HellDemon</td>
-            <td>KaiSniper</td>
+            <td>fsastore</td>
         </tr>
     </thead>
     <tr>
@@ -63,7 +63,7 @@
             </a>
         </td>
         <td>
-            <a href="http://ssnft.kaifloki.com/" target="_blank">
+            <a href="https://fsastore.com/" target="_blank">
                 <img src="https://github.com/kroim/profile/blob/master/projects/KaiSniper.png?raw=true" width="300">
             </a>
         </td>                       
