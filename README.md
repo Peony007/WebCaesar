@@ -82,17 +82,17 @@
     <tr>
         <td>
             <a href="https://play.google.com/store/apps/details?id=com.storyfire.storyfire&hl=en_US&gl=US">
-                <img src="https://play-lh.googleusercontent.com/5Lmq7EcKhNGHUptLtziAy4G8qgXGRuC8AdQhp8ycJGmSY9XMDxf3siAPCCl2RihysLg=w1440-h620-rw" width="300">
+                <img src="https://play-lh.googleusercontent.com/5Lmq7EcKhNGHUptLtziAy4G8qgXGRuC8AdQhp8ycJGmSY9XMDxf3siAPCCl2RihysLg=w1440-h620-rw" width="300" height="550">
             </a>
         </td>          
         <td>
             <a href="https://play.google.com/store/apps/details?id=com.eikard.version">
-                <img src="https://play-lh.googleusercontent.com/0yofnveljsXLosh_ZOX8dX1Iy0y1Rk2ehbcOhv0CEEF-MdVNVds1yCy9lQzXQXbxP10=w1440-h620-rw" width="300" height="500">
+                <img src="https://play-lh.googleusercontent.com/0yofnveljsXLosh_ZOX8dX1Iy0y1Rk2ehbcOhv0CEEF-MdVNVds1yCy9lQzXQXbxP10=w1440-h620-rw" width="300" height="550">
             </a>
         </td>   
         <td>
             <a href="https://play.google.com/store/apps/details?id=com.striketec.mobile">
-                <img src="https://play-lh.googleusercontent.com/B2gWGxF3dfoklxTLtrwF30yuU8fuHS1vCJ4puthl8wguNCMQva85AloZZ8YcVdyRqw=w1440-h620-rw" width="300">
+                <img src="https://play-lh.googleusercontent.com/B2gWGxF3dfoklxTLtrwF30yuU8fuHS1vCJ4puthl8wguNCMQva85AloZZ8YcVdyRqw=w1440-h620-rw" width="300" height="550">
             </a>
         </td> 
     </tr>  
