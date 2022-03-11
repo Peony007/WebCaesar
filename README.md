@@ -75,7 +75,7 @@
     <thead align="center">
         <tr>
             <td>StoryFire</td>
-            <td>Founders First App</td>
+            <td>Happy Be</td>
             <td>StrikeTec</td>
         </tr>
     </thead>
@@ -86,8 +86,8 @@
             </a>
         </td>          
         <td>
-            <a href="https://apps.apple.com/us/app/founders-first/id1521678845">
-                <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/9c/bf/129cbf17-ef0e-7ad7-78e0-61980a334508/058a03e0-7c02-4984-be6a-c3c2d13d9ff9_2688-1__U2013_67.png/230x0w.webp" width="300" height="600">
+            <a href="https://play.google.com/store/apps/details?id=com.eikard.version">
+                <img src="https://play-lh.googleusercontent.com/0yofnveljsXLosh_ZOX8dX1Iy0y1Rk2ehbcOhv0CEEF-MdVNVds1yCy9lQzXQXbxP10=w1440-h620-rw" width="300" height="600">
             </a>
         </td>   
         <td>
