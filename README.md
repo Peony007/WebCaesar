@@ -70,6 +70,34 @@
     </tr>   
 </table>
 
+- Hybrid App Development
+<table>
+    <thead align="center">
+        <tr>
+            <td>StoryFire</td>
+            <td>Founders First App</td>
+            <td>StrikeTec</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://play.google.com/store/apps/details?id=com.storyfire.storyfire&hl=en_US&gl=US">
+                <img src="https://play-lh.googleusercontent.com/5Lmq7EcKhNGHUptLtziAy4G8qgXGRuC8AdQhp8ycJGmSY9XMDxf3siAPCCl2RihysLg=w1440-h620-rw" width="300">
+            </a>
+        </td>          
+        <td>
+            <a href="https://apps.apple.com/us/app/founders-first/id1521678845">
+                <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/9c/bf/129cbf17-ef0e-7ad7-78e0-61980a334508/058a03e0-7c02-4984-be6a-c3c2d13d9ff9_2688-1__U2013_67.png/230x0w.webp" width="300">
+            </a>
+        </td>   
+        <td>
+            <a href="https://play.google.com/store/apps/details?id=com.striketec.mobile">
+                <img src="https://play-lh.googleusercontent.com/B2gWGxF3dfoklxTLtrwF30yuU8fuHS1vCJ4puthl8wguNCMQva85AloZZ8YcVdyRqw=w1440-h620-rw" width="300">
+            </a>
+        </td> 
+    </tr>  
+</table>
+
 - NFT Marketplaces
 <table>
     <thead align="center">
@@ -104,33 +132,7 @@
     </tr>
 </table>
 
-- DEX
-<table>
-    <thead align="center">
-        <tr>
-            <td>CosmicSwap</td>
-            <td>DDEXX INFO</td>
-            <td>MaticSwap</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="300">
-            </a>
-        </td>          
-        <td>
-            <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="300">
-            </a>
-        </td>   
-        <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="300">
-            </a>
-        </td> 
-    </tr>  
-</table>
+
 
 Hello,<br />
 Thank you for checking out my Github profile, here is a quick overview of my skills and strengths.<br />
