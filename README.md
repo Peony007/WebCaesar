@@ -22,7 +22,6 @@
 <table>
     <thead align="center">
         <tr>
-<!--             <td>PotatoPowerClue</td> -->
             <td>Casalova</td>           
             <td>CryptoPigs</td>           
             <td>FunkiFoxes</td>
@@ -31,9 +30,7 @@
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-<!--                 <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="300"> -->
                 <img src="https://flex.f6s.com/content-resource/media/463849.jpg" width="300">
-              
             </a>
         </td>
         <td>
