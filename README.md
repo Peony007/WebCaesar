@@ -135,16 +135,13 @@
 
 
 Hello,<br />
-Thank you for checking out my Github profile, here is a quick overview of my skills and strengths.<br />
-A self-motivated professional that thrives on innovation and overcoming challenges, learning new skills, and encouraging growth in those around me. 
-I specialize in start-ups and have worked within the small business run smoother.
-<br />I am well organized, efficient, and self motivated. The key to my success has been to learn quickly and to then reach for a higher personal and professional standard by seeking additional responsibilities.<br />
-I have worked in the retail industry for over 7 years as a full stack developer for companies such as a full-stack developer.<br />
-My genuine interest in building world class support teams and maintaining a high level of standards has led me to become successful in my role as a full-stack developer.<br />
-My goal has always been to exceed the expectations of both my emplyer as well as my customer.<br />
-Although the above is only a brief snapshot, this philosophy has served me welll in my professional career.<br />
-I am focused on Web Design, React, Vue.js, Angular, Solidity, Smart-contract, Blockchain-development, Mobile-app creation. I am a Shopify certified partner and I am featured in the 21 web design lists in prestigiious rankings.<br />
-The design philosophy is centered around simplicity. I focus on highly customizable, fast and optimized websites, clean lines, white space, and solid colors to create an aesthetic that is both modern and timeless.<br />
-The websites are professionally designed to increase conversion rates and sales.<br />
-I encourage you to take alook at my github profile to see the type of results that you can expect when working with me.<br />
-Thank you.
+I am a senior front-end and blockchain dev activating in the space since 2015.
+I am well organized, efficient, and self-motivated.
+A self-motivated professional that thrives on innovation and overcoming challenges, learning new skills, and encouraging growth in those around me. I specialize in start-ups and have worked within the small business run smoother.
+The key to my success has been to learn quickly and to then reach for a higher personal and professional standard by seeking additional responsibilities.
+I have worked for over 4 years as a senior frontend developer for companies.
+I am focused on Web Development, Hybrid App development.
+Especially React and Vue.js website development is the main skill for me and it's something I am specializing in.
+My goal has always been to exceed the expectations of both my employer as well as my customer.
+I encourage you to take a look at my github profile to see the type of results that you can expect when working with me.
+Thank you
