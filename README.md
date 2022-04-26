@@ -102,9 +102,9 @@
     <thead align="center">
         <tr>
             <td>PixelPimp</td>
-            <td>Latitude</td>
+            
             <td>LunaChowNFT</td>
-            <td>GekoSaveAuction</td>
+            
         </tr>
     </thead>
     <tr>
