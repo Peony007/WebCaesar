@@ -18,7 +18,6 @@
 </table>
 
 ### Web Development Experience
-- NFT Mint Dapps
 <table>
     <thead align="center">
         <tr>
@@ -114,7 +113,7 @@
                 <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
             </a>
         </td>        
-       
+        <td>
             <a href="https://lunachownft.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
             </a>
