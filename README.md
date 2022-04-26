@@ -114,21 +114,12 @@
                 <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
             </a>
         </td>        
-        <td>
-            <a href="https://latitud.art/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/latitud.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
+       
             <a href="https://lunachownft.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
             </a>
         </td> 
-        <td>
-            <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
-            </a>
-        </td>     
+        
     </tr>
 </table>
 
