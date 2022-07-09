@@ -115,8 +115,7 @@
             <a href="https://lunachownft.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
             </a>
-        </td> 
-        
+        </td>
     </tr>
 </table>
 
