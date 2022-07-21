@@ -6,8 +6,8 @@
     <thead align="center">
         <tr>
             <td>CSE</td>           
-            <td>RL-Express</td>           
-            <td>RL-Simulator</td>
+            <td>RL</td>           
+            <td>RL</td>
             
         </tr>
     </thead>
