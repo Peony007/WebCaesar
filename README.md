@@ -18,12 +18,12 @@
         </td>
         <td>
             <a href="https://www.fishtripr.com/">
-                <img src="https://v.fastcdn.co/u/19d50400/20614816-0-AdobeStock-2588979.jpeg" width="300">
+                <img src="https://media-exp1.licdn.com/dms/image/C562DAQHjd2VMWeHVAA/profile-treasury-image-shrink_800_800/0/1658147924612?e=1658977200&v=beta&t=TuxGAP6ZoAzKqiQ8SymiZpPbqsqhx-pMCwZGJNGm_bo" width="300">
             </a>
         </td> 
         <td>
             <a href="https://fsastore.com/">
-                <img src="https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BFKW_STG/on/demandware.static/-/Library-Sites-fsaStoreLibrary/default/v6ca977b808a5a1ce8d5929d87e1c799a17d0f261/images/Campaigns/2022-03-mar-grace-period-phase3/homepage-hero-phase3hero-graceperiod-hp-fsa-2xs.jpg" width="300">
+                <img src="https://media-exp1.licdn.com/dms/image/C562DAQGVP8lJwEH9bw/profile-treasury-image-shrink_800_800/0/1658148126603?e=1658977200&v=beta&t=jvrEGGNf5-p7XZ3-djN2JblMP692YT6pD1dF5fxgKIk" width="300">
             </a>
         </td>               
     </tr>
