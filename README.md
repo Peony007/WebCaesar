@@ -25,7 +25,7 @@
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQGVP8lJwEH9bw/profile-treasury-image-shrink_800_800/0/1658148126603?e=1658977200&v=beta&t=jvrEGGNf5-p7XZ3-djN2JblMP692YT6pD1dF5fxgKIk" width="300">
             </a>
         </td>               
-   
+   </tr>
     <thead align="center">
         <tr style="display: flex">
             <td>Hiflaneur</td>
