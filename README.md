@@ -5,9 +5,9 @@
 <table>
     <thead align="center">
         <tr>
-            <td>Casalova</td>           
-            <td>Fishtripr</td>           
-            <td>Fsastore</td>
+            <td>CSE</td>           
+            <td>RL-Express</td>           
+            <td>RL-Simulator</td>
             </tr>
     </thead>
     <tbody>
@@ -35,7 +35,7 @@
             <td>Mociun</td>
         </tr>
     </thead>
-  
+        <tr>
         <td>
             <a href="https://www.hiflaneur.com/" target="_blank">
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQEVHbu0z9W5kQ/profile-treasury-image-shrink_800_800/0/1658150158459?e=1658977200&v=beta&t=A6HNn1VyDXF70IV34-byFK0p9j5QJqQ7KD28KUZ0z-M" width="300" height="auto">
@@ -46,7 +46,7 @@
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQGMOdWKkLFtew/profile-treasury-image-shrink_800_800/0/1658148195422?e=1658977200&v=beta&t=Zwwx4CNMBaX3DoRxyD395as9ipEeFHxb22Frh1H0X6o" width="300" height="auto" >
             </a>
         </td>
-                 
+    </tr> 
 
 </table>
 
