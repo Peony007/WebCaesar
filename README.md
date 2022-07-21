@@ -5,21 +5,20 @@
 <table>
     <thead align="center">
         <tr>
-            <td>CSE</td>           
-            <td>RL</td>           
-            <td>RL</td>
-            
+            <td>Casalova</td>           
+            <td>Fishtripr</td>           
+            <td>Fsastore</td>
         </tr>
     </thead>
     <tr>
         <td>
             <a href="https://www.f6s.com/casalova">
-                <img src="https://d354o3y6yz93dt.cloudfront.net/images/1080x1080/react-assets/home/bottom-banner.jpg" width="300">
+                <img src="https://flex.f6s.com/content-resource/media/463849.jpg" width="300">
             </a>
         </td>
         <td>
             <a href="https://www.fishtripr.com/">
-                <img src="https://d354o3y6yz93dt.cloudfront.net/images/1080x1080/react-assets/home/bottom-banner.jpg" width="300">
+                <img src="https://v.fastcdn.co/u/19d50400/20614816-0-AdobeStock-2588979.jpeg" width="300">
             </a>
         </td> 
         <td>
