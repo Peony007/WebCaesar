@@ -35,7 +35,7 @@
             <td>Mociun</td>
         </tr>
     </thead>
-    <tr>
+  
         <td>
             <a href="https://www.hiflaneur.com/" target="_blank">
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQEVHbu0z9W5kQ/profile-treasury-image-shrink_800_800/0/1658150158459?e=1658977200&v=beta&t=A6HNn1VyDXF70IV34-byFK0p9j5QJqQ7KD28KUZ0z-M" width="300" height="auto">
@@ -47,7 +47,7 @@
             </a>
         </td>
                  
-    </tr>   
+
 </table>
 
 
