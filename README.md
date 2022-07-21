@@ -14,12 +14,12 @@
     <tr>
         <td>
             <a href="https://www.f6s.com/casalova">
-                <img src="https://media-exp1.licdn.com/dms/image/C4E2DAQGYQJu4ehsEeg/profile-treasury-image-shrink_800_800/0/1650784882719?e=1658977200&v=beta&t=zhLUf17cY6NGn4Sw_tcaRHkajsHtORmqmeVwZkRvgI4.jpg" width="300">
+                <img src="https://d354o3y6yz93dt.cloudfront.net/images/1080x1080/react-assets/home/bottom-banner.jpg" width="300">
             </a>
         </td>
         <td>
             <a href="https://www.fishtripr.com/">
-                <img src="https://media-exp1.licdn.com/dms/image/C4E2DAQGYQJu4ehsEeg/profile-treasury-image-shrink_800_800/0/1650784882719?e=1658977200&v=beta&t=zhLUf17cY6NGn4Sw_tcaRHkajsHtORmqmeVwZkRvgI4" width="300">
+                <img src="https://d354o3y6yz93dt.cloudfront.net/images/1080x1080/react-assets/home/bottom-banner.jpg" width="300">
             </a>
         </td> 
         <td>
