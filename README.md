@@ -31,7 +31,6 @@
         <tr style="display: flex">
             <td>Hiflaneur</td>
             <td>Mociun</td>
-            <td>Seniorly</td>
         </tr>
     </thead>
     <tr>
@@ -45,11 +44,7 @@
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQGMOdWKkLFtew/profile-treasury-image-shrink_800_800/0/1658148195422?e=1658977200&v=beta&t=Zwwx4CNMBaX3DoRxyD395as9ipEeFHxb22Frh1H0X6o" width="600" height="auto" >
             </a>
         </td>
-        <td>
-            <a href="https://www.seniorly.com/" target="_blank">
-                <img src="https://d354o3y6yz93dt.cloudfront.net/images/1080x1080/react-assets/home/bottom-banner.jpg" width="300">
-            </a>
-        </td>                       
+                 
     </tr>   
 </table>
 
