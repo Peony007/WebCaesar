@@ -8,7 +8,6 @@
             <td>Casalova</td>           
             <td>Fishtripr</td>           
             <td>Fsastore</td>
-        </tr>
     </thead>
         <td>
             <a href="https://www.f6s.com/casalova">
